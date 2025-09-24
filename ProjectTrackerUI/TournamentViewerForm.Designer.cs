@@ -96,7 +96,7 @@
             matchupListBox.BorderStyle = BorderStyle.FixedSingle;
             matchupListBox.FormattingEnabled = true;
             matchupListBox.ItemHeight = 59;
-            matchupListBox.Location = new Point(12, 328);
+            matchupListBox.Location = new Point(12, 327);
             matchupListBox.Name = "matchupListBox";
             matchupListBox.Size = new Size(528, 474);
             matchupListBox.TabIndex = 5;
